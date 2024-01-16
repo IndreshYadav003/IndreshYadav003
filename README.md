@@ -1,4 +1,3 @@
--<h1 align="center">Hi 👋, I'm Indresh Yadav</h1>
 <h3 align="center">A passionate Sowftware Engineer developer from India</h3>
 <img align="right"alt="Cding"width="600px"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc5Ev05kc4KX43WsSj_OavXxMWEAfLG1c0Zw&usqp=CAU">
 
